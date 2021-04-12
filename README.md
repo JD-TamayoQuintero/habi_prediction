@@ -4,4 +4,4 @@
  
 Nota: haciendo mencion a lo que se hablo en el reto "El ganador del reto no necesariamente será el que tenga el mejor resultado en Kaggle, sino el que presente la mejor metodología para resolver el reto." el codigo se reserva para la siguiente etapa.
 
-No obstante se menciona que el algoritmo desarrollado ha alcazado el segundo mejor score en kaggle y se considera que el algoritmo es sencillo, escalabre e interpretable por lo que considero que significativamente valioso y merece estar en la siguiente etapa.
+No obstante se menciona que el algoritmo desarrollado ha alcazado el segundo mejor score en kaggle y se considera que la solucion dada es sencilla, escalabre e interpretable por lo que considero que merece estar en la siguiente etapa y aportaria gran valor al negocio de habi.
